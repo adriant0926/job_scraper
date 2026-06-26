@@ -48,7 +48,6 @@ if __name__ == "__main__":
         "https://cba.wd3.myworkdayjobs.com/CommBank_Careers?locationRegionStateProvince=c7cff0e46d864ae49ef40b4ba71e7e5c&jobFamilyGroup=089636baad99015305bcc5419301256c&jobFamily=31796cc3cc87016f37f1e7a4fd42815f",
         "https://recruitment.macquarie.com/en_US/careers/SearchJobs/?10671=%5B871429%5D&10671_format=21337&10672=%5B887281%5D&10672_format=21338&1270=%5B347511%5D&1270_format=3248&listFilterMode=1&jobRecordsPerPage=9&",
 
-
     ]
 
     jobs = scrape_jobs(urls)
